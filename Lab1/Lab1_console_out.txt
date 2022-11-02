@@ -1,0 +1,22 @@
+Number of rows: 95
+
+Number of columns: 6
+
+0     10.108
+1     12.635
+2     10.108
+3     14.770
+4     10.550
+       ...
+90    10.108
+91     2.527
+92     4.220
+93    63.300
+94    57.500
+Name: Sales, Length: 95, dtype: float64
+
+ABC Retailer total sales: 528.158
+
+ABC Retailer total vegetable sales: 528.1579999999999
+
+XYZ Retailer total meat sales: 147.905
